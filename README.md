@@ -1,9 +1,11 @@
 # pagekitserver
+
+# download the pagekitserver.exe file
 A windows EXE for hosting your website Free direct from your local machine.it uses the  pagekite python module and their service.
 just check the screenshots to get started.
 i created this with pagekite python api and make this exe by pyinstaller. so if you are a python developer you must know that pyinstaller exe are allways blocked by any antivirus softwares. so make sure to work with this software turn off your antivirus. because you have to tunnal your pc with pagekite.me server so you have to give access by just disableing your antivirus. dont worry this is safe.if you face any issue then feel free to contact me at somen6562@gmail.com or message me on instagram @khiladisomen9.
 steps:
-1.open the pagekitserver exe.
+1. open the pagekitserver exe.
 
 2.choose any subdomain name anything but dont give .com .net anything like this just enter oneword dont use spaces and you can use numbers.
   ...press Enter
